@@ -47,27 +47,49 @@ I'm a Computer Science student passionate about software development and buildin
 
 ## Featured Projects
 
-### Dynamic Bar
-A native Windows 11 desktop application inspired by Dynamic Island, bringing music controls, system interactions, voice assistance, and other useful features into a floating interface.
+## 🚀 Featured Projects
+
+### 🖥️ Dynamic Bar
+A native Windows 11 application inspired by Dynamic Island, bringing music controls, system interactions, voice assistance, and useful desktop features into one interface.
 
 **Tech Stack:** C#, .NET 8, WPF
 
-[View Repository →](https://github.com/TombStone88/Dynamic_Bar)
+![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-orange?style=for-the-badge)
 
-### TombPad – Wireless Gamepad
-An Android application that transforms a smartphone into a wireless game controller for Windows, featuring real-time controller input and vibration feedback.
+<a href="https://github.com/TombStone88/Dynamic_Bar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+---
+
+### 🎮 TombPad – Wireless Gamepad
+An Android application that transforms your smartphone into a wireless game controller for Windows, featuring real-time controller input and vibration feedback.
 
 **Tech Stack:** Android, Java/Kotlin, Python, UDP, vgamepad
 
-[View Repository →](https://github.com/TombStone88/Gamepad)
+<a href="https://github.com/TombStone88/Gamepad">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://github.com/TombStone88/Gamepad/releases/tag/v1.0.0">
+  <img src="https://img.shields.io/badge/Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android APK">
+</a>
+<a href="https://github.com/TombStone88/Gamepad/releases/tag/v1.0.0">
+  <img src="https://img.shields.io/badge/Windows_App-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows App">
+</a>
 
-### Bookify
-A book club application where users can create clubs, share books, track reading progress, and connect with other readers.
+---
+
+### 📚 Bookify
+A book club platform where users can create clubs, share books, track reading progress, and connect with other readers.
 
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js
 
-[View Repository →](https://github.com/TombStone88/Bookify)
-
+<a href="https://github.com/TombStone88/Bookify">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://bookify-beta-rosy.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+</a>
 ---
 
 ## GitHub Contributions
