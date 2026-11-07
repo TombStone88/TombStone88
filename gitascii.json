@@ -19,16 +19,105 @@
       "instanceId": "widget_1794027430405_0"
     },
     {
+      "instanceId": "widget_60aae50d-fa0c-4b35-953c-2ec56e2bbdcf",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 11,
+        "y": 160
+      },
+      "size": {
+        "width": 781,
+        "height": 48
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_a2f9bfed-de9d-4016-a545-936699da5016",
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 11,
+        "y": 216
+      },
+      "size": {
+        "width": 778,
+        "height": 280
+      },
+      "config": {
+        "borderColor": "#060606",
+        "customLanguages": "Java, Rust, Dart, React"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_36cc421c-0b1e-4cfc-bb7d-4c2455619be6",
+      "widgetId": "godprofile-marquee",
+      "name": "Godprofile-marquee Widget",
+      "position": {
+        "x": 11,
+        "y": 72
+      },
+      "size": {
+        "width": 781,
+        "height": 104
+      },
+      "config": {
+        "accentColor": "#b6a891",
+        "marqueeLangs": [
+          "react",
+          "nodejs",
+          "python",
+          "git",
+          "rust",
+          "java",
+          "dart",
+          "tailwind",
+          "mongodb",
+          "supabase",
+          "figma"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_53d50df7-c826-4910-a5fb-64d278523750",
+      "widgetId": "godprofile-terminal",
+      "name": "Godprofile-terminal Widget",
+      "position": {
+        "x": 11,
+        "y": 368
+      },
+      "size": {
+        "width": 776,
+        "height": 776
+      },
+      "config": {
+        "accentColor": "#b6a891",
+        "lockAspectRatio": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
       "instanceId": "widget_cd49cdc5-a6bd-47df-b282-616c5d6d35d3",
       "widgetId": "premium-ascii-dev-score",
       "name": "Premium-ascii-dev-score Widget",
       "position": {
-        "x": 464,
-        "y": 362
+        "x": 296,
+        "y": 472
       },
       "size": {
-        "width": 336,
-        "height": 336
+        "width": 480,
+        "height": 480
       },
       "config": {
         "lockAspectRatio": true,
@@ -40,155 +129,40 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 7
+      "zIndex": 6
     },
     {
-      "instanceId": "widget_ddb31d52-7f94-4633-bb25-4d2b4c9bde29",
-      "widgetId": "asciiprofile-heatmap",
-      "name": "Asciiprofile-heatmap Widget",
+      "instanceId": "widget_f288b540-0504-4b53-8c5b-c3f56312800f",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
       "position": {
-        "x": 10,
-        "y": 1170
+        "x": 12,
+        "y": 1024
       },
       "size": {
         "width": 780,
-        "height": 240
+        "height": 120
       },
       "config": {
-        "accentColor": "#ffa657"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
-    },
-    {
-      "instanceId": "widget_a5be76ce-6423-48f1-a9e9-804187d22bcd",
-      "widgetId": "godprofile-terminal",
-      "name": "Godprofile-terminal Widget",
-      "position": {
-        "x": 0,
-        "y": 640
-      },
-      "size": {
-        "width": 800,
-        "height": 504
-      },
-      "config": {
-        "accentColor": "#b6a891",
-        "borderColor": "#0d1117",
-        "hideBorder": true,
-        "hideDecorations": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 9
-    },
-    {
-      "instanceId": "widget_a33c3fd2-c489-445b-bca0-650cea8bd8c3",
-      "widgetId": "codeweb-retro-grid",
-      "name": "Codeweb-retro-grid Widget",
-      "position": {
-        "x": 8,
-        "y": 98
-      },
-      "size": {
-        "width": 784,
-        "height": 274
-      },
-      "config": {
-        "selectedTechs": [
-          "java",
-          "kotlin",
-          "rust",
-          "react",
-          "nodejs",
-          "mongodb",
-          "flutter",
-          "figma"
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "email",
+          "website"
         ],
-        "displayMode": "both",
-        "hideBorder": false,
-        "sourceType": "avatar",
-        "showTitle": true,
-        "devCardLink": "",
-        "link": "",
-        "technologies": [
-          "java",
-          "kotlin",
-          "rust",
-          "react",
-          "nodejs",
-          "mongodb",
-          "flutter",
-          "figma"
-        ],
-        "borderColor": "#060606"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 9
-    },
-    {
-      "instanceId": "widget_60aae50d-fa0c-4b35-953c-2ec56e2bbdcf",
-      "widgetId": "divider",
-      "name": "Divider Widget",
-      "position": {
-        "x": 0,
-        "y": 376
-      },
-      "size": {
-        "width": 800,
-        "height": 40
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
-    },
-    {
-      "instanceId": "widget_a2f9bfed-de9d-4016-a545-936699da5016",
-      "widgetId": "terminal-info",
-      "name": "Terminal-info Widget",
-      "position": {
-        "x": 0,
-        "y": 424
-      },
-      "size": {
-        "width": 464,
-        "height": 280
-      },
-      "config": {
-        "borderColor": "#060606",
-        "customLanguages": "Java, Rust, Dart, React"
+        "socialUrls": {
+          "github": "https://github.com/TombStone88",
+          "linkedin": "https://www.linkedin.com/in/nirav-mahida-b6a028379?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+          "email": "mailto:gokumahida@gmail.com",
+          "website": "https://niravm-dev.vercel.app/"
+        },
+        "badgeStyle": "for-the-badge",
+        "customTitle": "Connect me..",
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
       "zIndex": 7
-    },
-    {
-      "instanceId": "widget_46a6055c-fa79-491c-88ef-119ccfba7eff",
-      "widgetId": "codeweb-social-badge",
-      "name": "Codeweb-social-badge Widget",
-      "position": {
-        "x": 0,
-        "y": 1431
-      },
-      "size": {
-        "width": 800,
-        "height": 44
-      },
-      "config": {
-        "platforms": [
-          "linkedin",
-          "gmail"
-        ],
-        "hideDecorations": false,
-        "hideBorder": true,
-        "label_linkedin": ""
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
     }
   ],
   "globalStyles": {
@@ -200,12 +174,13 @@
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "native"
+    "templateStyle": "native",
+    "transparentBackground": true
   },
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794032501725_1j1wu",
-    "updatedAt": "2026-11-07T06:21:44.305Z"
+    "revision": "rev_1794036644698_3ikln",
+    "updatedAt": "2026-11-07T07:30:47.599Z"
   }
 }
