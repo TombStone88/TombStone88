@@ -12,6 +12,9 @@
   <a href="mailto:gokumahida@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://niravm-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
